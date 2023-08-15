@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">FindARoomKotlinVer2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dup_back">Nhấn back lần nữa để thoát</string>
+    <string name="sign_in">Đăng nhập</string>
+    <string name="input_phone_number">Nhập số điện thoại</string>
+    <string name="password">Mật khẩu</string>
+    <string name="forgot_password">Quên mật khẩu?</string>
+    <string name="or">Hoặc</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="login">Đăng nhập</string>
+    <string name="title_home_hello">Xin chào!</string>
+    <string name="content_home_hello">Hãy cùng chúng tôi tìm 1 nhà trọ thật là ưng ý.</string>
+    <string name="titleSearch_homeFragment">Tìm kiếm</string>
+    <string name="title_home_trend">Tin nổi bật</string>
+    <string name="title_home_for_you">Dành cho bạn</string>
+    <string name="count_view">Lượt xem</string>
+    <string name="count_feedback">Đánh giá</string>
+    <string name="Utility">Tiện ích</string>
+    <string name="Information">Thông tin</string>
+    <string name="Information_room">Thông tin phòng</string>
+    <string name="Position">Vị trí</string>
+    <string name="content_text_detail">Cho thuê phòng trọ giá rẻ ở  Bắc Từ Liêm, Hà Nội</string>
+    <string name="api_key_app">AIzaSyDId5Ne9ty3PAl9aMBW4A-_7WcXfH7ngFA</string>
+    <string name="more_content">Mô tả thêm</string>
+    <string name="rankandfeedback">Xếp hạng và đánh giá</string>
+    <string name="message">Nhắn tin</string>
+    <string name="call">Liên hệ</string>
+    <string name="me">Tôi</string>
+    <string name="notification">Thông báo</string>
+    <string name="home">Trang chủ</string>
+    <array name="spTP">
+        <item>Chọn tỉnh/thành phố</item>
+    </array>
+    <array name="spQH">
+        <item>Chọn quận/huyện</item>
+    </array>
+
+    <array name="spXP">
+        <item>Chọn xã/phường</item>
+    </array>
+    <array name="spDP">
+        <item>
+            Chọn đường/phố
+        </item>
+    </array>
+
+    <string name="step1">1. Sử dụng hình ảnh trước và sau <b>(Before After)</b> thường được sử dụng nhiều trong ngành làm đẹp. <b>FindARoom</b> cho rằng đây là những hình ảnh <b>đả kích</b> vào vấn đề cá nhận, <b>bôi nhọ danh dự</b> nên gần như <b>đều bị cấm</b></string>
+    <string name="step2">2. Bạn không được phép chạy quảng cáo với những hình ảnh <b>đồi truỵ, 18+</b>. Hầu như nhà mạng quảng cáo nào cũng cầm nhưng hình ảnh này cả</string>
+    <string name="step3">3. FindARoom không cho phép bạn được đăng bài với nội dung liên quan đến các <b>thương hiệu lớn</b>.</string>
+    <string name="step4">4. Bên trên là bản quyền về sản phẩm, còn phần này mình sẽ nói về bản quyền <b>hình ảnh người nổi tiếng</b> như ca sĩ, diễn viên, vận động viên,…</string>
+    <string name="step5">5. Nội dung bài viết chứa những từ ngữ <b>phản cảm</b></string>
+    <string name="step6">6. FindARoom sẽ không cho phép bạn đăng bài với những hình ảnh có <b>súng đạn</b> hoặc yếu tố <b>bạo lực</b> như máu me ...</string>
+    <string name="step7">7. Các yếu tố phân biệt đối xử như <b>giới tính độ tuổi</b>....</string>
+    <string name="step8">8. Không chứa nhưng từ ngữ cam kết ví dụ như : <b>chắc chắn sẽ đẹp</b> hay <b>xem phòng ngay để được ưu đãi</b></string>
+    <string name="step9">9. Không hình ảnh <b>máu me</b>, <b>gây sốc</b> , chứa yếu tố <b>bạo lực</b></string>
+    <string name="step10">10. FindARoom cực kì làm gắt đối với các sản phẩm về <b>thuốc lá, thuốc lá điện tử</b></string>
+    <string name="text1">Tất cả các bài viết vi phạm sẽ bị chúng tôi <b>gỡ xuống</b>. Nặng hơn có thể bị <b>cấm</b> tài khoản vĩnh viễn</string>
+
+    <string name="policy"><u>Chính sách của chúng tôi</u></string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="textLogin">Đăng nhập</string>
+    <string name="textRegister">Đăng ký</string>
+    <string name="registerSuccess">Đăng ký thành công !</string>
+    <string name="registerSuccessText">Xin chúc mừng. tài khoản của bạn đã được tạo. Đăng nhập để cùng khám phá ứng dụng ngay!</string>
+    <string name="confirm">Xác thực</string>
+    <string name="textLoginMore">Mỗi giây một bất ngờ, đăng nhập và khám phá thế giới ngay !</string>
+    <string name="textUsername">Số điện thoại/Email</string>
+    <string name="textPassword">Mật khẩu</string>
+    <string name="textForgotPassLogin"><u>Quên mật khẩu</u></string>
+    <string name="loginMore">Đăng nhập bằng phương thức khác</string>
+    <string name="whatIsAccount">Bạn chưa có tài khoản?</string>
+    <string name="registerNow"><u>Đăng ký ngay</u></string>
+    <string name="textErrorUsername">Vui lòng nhập tài khoản</string>
+    <string name="textErrorPassword">Vui lòng nhập mật khẩu</string>
+    <string name="textErrorNotPhone">Vui lòng nhập số điện thoại</string>
+    <string name="textErrorNotEmail">Vui lòng nhập email</string>
+    <string name="textErrorUsernameCheckEmailOrPhone">Nhập đúng định dạng email hoặc số điện thoại</string>
+    <string name="textErrorPhone">Nhập đúng định dạng số điện thoại</string>
+    <string name="textErrorPassAgain">Mật khẩu không trùng nhau</string>
+    <string name="pleasePassWord">Vui lòng nhập mật khẩu</string>
+    <string name="textErrorEmail">Nhập đúng định dạng email</string>
+    <string name="policyNotCheck">Hãy đồng ý với điều khoản của chúng tôi</string>
+    <string name="textErrorPasswordValidate">Mật khẩu phỉa từ 8 đến 15 ký tự có chữ hoa, chữ thường, có kỹ tự đặc biệt và số</string>
+    <string name="textRegisterTop">Vui lòng nhập các thông tin sau</string>
+    <string name="toPhone">Nhập mã xác thực 6 số được gửi đến email: %s</string>
+    <string name="sendAgainOTP">Đã gửi lại otp</string>
+    <string name="textPhoneRegister">Số điện thoại</string>
+    <string name="textEmailRegister">Email của bạn</string>
+    <string name="textPasswordRegister">Nhập mật khẩu của bạn</string>
+    <string name="textPasswordRegisterAgain">Nhập lại mật khẩu của bạn</string>
+    <string name="textPasswordRegisterUppercase">Có ít nhất 1 chữ viết hoa</string>
+    <string name="loginNow">Đăng nhập ngay</string>
+    <string name="textPasswordRegisterNumber">Bao gồm cả chữ, số và ký tự đặc biệt</string>
+    <string name="textPasswordRegisterLength">Độ dài từ 8 - 15 ký tự</string>
+    <string name="textContinue">Tiếp tục</string>
+    <string name="textPolicyRegister">Tôi đã đọc, hiểu rõ và đồng ý với <u>điều kiện, điều khoản</u> </string>
+    <string name="textDownTimeOTP">Mã OTP có hiệu lực trong</string>
+    <string name="sendAgain">Gửi lại</string>
+    <string name="sendMail"><u>Nhận mã xác thực qua Email</u></string>
+    <string name="loginByPin">Đăng nhập mã PIN</string>
+    <string name="textTopLoginPin">Nhập mã Pin bạn đang sử dụng</string>
+    <string name="textTopForgotPassword">Bạn vui lòng nhập số điện thoại hoặc email để lấy lại mật khẩu!</string>
+    <string name="forgotPassword">Quên mật khẩu</string>
+    <string name="newPassword">Mật khẩu mới</string>
+    <string name="pleaseNewPassword">Vui lòng nhập mật khẩu mới</string>
+    <string name="title_home">Home</string>
+    <string name="titleCard">Chi tiêu</string>
+    <string name="titleSubCard">Thu Nhập</string>
+    <string name="title_wallet">Ví</string>
+    <string name="title_chart">Biều đồ</string>
+    <string name="title_me">Cá nhân</string>
+    <string name="analytics">Phân tích</string>
+    <string name="viewAll">Xem thêm</string>
+    <string name="transactions">Giao dịch gần đây</string>
+    <string name="notToOTP">Bạn không nhận được OTP</string>
+</resources>
